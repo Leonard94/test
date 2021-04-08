@@ -1,0 +1,166 @@
+{
+    "drinks": [
+        {
+            "id": 13,
+            "name": "pepsi",
+            "title": "Pepsi",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "7up",
+            "title": "7Up",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "mirinda",
+            "title": "Mirinda",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "lipton",
+            "title": "Чай Lipton чёрный с лимоном",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "liptongreen",
+            "title": "Чай Lipton зелёный",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "fuzetea",
+            "title": "Чай FuzeTea черный",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "fuzetea-green",
+            "title": "Чай FuzeTea зелёный",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "fanta",
+            "title": "Fanta",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "bonaqua",
+            "title": "Bonaqua",
+            "composition": "",
+            "types": [
+                {
+                    "size": "0.5 л",
+                    "price": 2.7,
+                    "weight": null
+                },
+                {
+                    "size": "1 л",
+                    "price": 3.1,
+                    "weight": null
+                }
+            ]
+        }
+    ]
+}
